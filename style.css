@@ -1,0 +1,40 @@
+body{
+    background: #FFF94F;
+}
+
+.header_div{
+    font-family: 'Dancing Script', cursive;
+    background-color: #EF767A;
+    color: #FCEFF9;
+    font-size: 35px;
+    text-align: center;
+}
+
+#header{
+    width: 100px;
+    height: 75px;
+    border-radius: 50%; 
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
+
+b{
+    font-size: 25px;
+    color: #320E3B;
+    font-family: 'Playfair Display', serif;
+}
+
+h5 , h4{
+    font-size: 23px;
+}
+
+.FinalResultAccuracy{
+    background-color: lightcoral;
+    padding: 10px;
+    width: 70%;
+    border-color: black;
+    border-radius: 5px;
+}
